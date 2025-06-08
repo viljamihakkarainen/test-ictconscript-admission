@@ -1,9 +1,9 @@
 # ICT Conscript Admission Test
 Thank you for taking interest in applying into our ICT Conscript Program. 
 In this repository you will find our **Admission Test** to the program. 
-### The test is a voluntary part of the Admission:
+### The test is a voluntary (but **highly recommended**) part of the Admission:
 - We will evaluate your OmaIntti application even if you couldn't complete the Admission test. 
-### **However we highly recommend you take the test, if possible. It improves your chances of being selected.**
+### **However we highly recommend you take the test, if possible. It greatly improves your chances of being selected.**
 
 
 
