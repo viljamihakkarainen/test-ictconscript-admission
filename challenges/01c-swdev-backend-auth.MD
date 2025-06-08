@@ -1,4 +1,4 @@
-# Software Developer: Identity-Provider task
+# Software Developer: Identity Provider task
 ## “Unit Logbook” – OpenID Connect + JWT setup
 
 ### Backstory
