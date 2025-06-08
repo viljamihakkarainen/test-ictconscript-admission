@@ -1,0 +1,82 @@
+[
+  {
+    "id": "1",
+    "title": "Night perimeter check",
+    "body": "All clear around main gate.",
+    "isoTime": "2025-05-14T21:30:00Z",
+    "lat": 60.1503,
+    "lon": 25.0293
+  },
+  {
+    "id": "2",
+    "title": "Generator maintenance",
+    "body": "Changed oil and inspected filters.",
+    "isoTime": "2025-05-15T07:15:00Z",
+    "lat": 60.1561,
+    "lon": 25.0249
+  },
+  {
+    "id": "3",
+    "title": "Weather update",
+    "body": "Heavy rainfall expected after 1600 hrs.",
+    "isoTime": "2025-05-15T09:40:00Z",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "4",
+    "title": "Drone sighting",
+    "body": "Quad-copter over Vuosaari direction, 200 m AGL.",
+    "isoTime": "2025-05-15T12:03:00Z",
+    "lat": 60.1568,
+    "lon": 25.0472
+  },
+  {
+    "id": "5",
+    "title": "Supply drop received",
+    "body": "Ammo and rations accounted for.",
+    "isoTime": "2025-05-15T14:55:00Z",
+    "lat": 60.1534,
+    "lon": 25.0367
+  },
+  {
+    "id": "6",
+    "title": "Radio outage",
+    "body": "Primary HF link down for 12 min — rebooted transceiver.",
+    "isoTime": "2025-05-15T16:22:00Z",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "id": "7",
+    "title": "Medical check",
+    "body": "One soldier treated for mild hypothermia.",
+    "isoTime": "2025-05-15T18:05:00Z",
+    "lat": 60.1510,
+    "lon": 25.0324
+  },
+  {
+    "id": "8",
+    "title": "Patrol departure",
+    "body": "Alpha team left for sector Santahamina east shore.",
+    "isoTime": "2025-05-15T19:40:00Z",
+    "lat": 60.1496,
+    "lon": 25.0441
+  },
+  {
+    "id": "9",
+    "title": "Wildlife interference",
+    "body": "Fox damaged comms cable near OP-2; temporary fix applied.",
+    "isoTime": "2025-05-15T20:18:00Z",
+    "lat": 60.1479,
+    "lon": 25.0198
+  },
+  {
+    "id": "10",
+    "title": "Sync to HQ",
+    "body": "Logbook synced over SATCOM. All entries acknowledged.",
+    "isoTime": "2025-05-16T06:45:00Z",
+    "lat": null,
+    "lon": null
+  }
+]
