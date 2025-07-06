@@ -83,7 +83,6 @@ README.md
 |    | `terraform fmt` + `validate` succeed. |
 |    | `terraform apply` from a fresh clone produces an HTTPS URL printing “Unit Logbook OK”. |
 |    | Output variables include the public URL. |
-|    | No secrets or API tokens committed (use env vars / `terraform.tfvars`). |
 |    | Provider & module versions pinned. |
 |    | README contains links to test your setup. |
-- [ ] Mail link to your forked repository to ictvmrekry.pvjjk at mil.fi.   
+- [ ] Return your done Test to ```ictvmhaku.pvjjk at mil.fi```.

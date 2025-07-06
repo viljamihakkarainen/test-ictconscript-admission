@@ -49,4 +49,4 @@ Build a frontend application that
 - [ ] GitHub Pages deployment live.
 - [ ] 
   URL in your fork’s README.
-- [ ] Mail link to your forked repository to ictvmrekry.pvjjk at mil.fi.
+- [ ] Return your done Test to ```ictvmhaku.pvjjk at mil.fi```.

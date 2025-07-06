@@ -1,11 +1,7 @@
 # ICT Conscript Admission Test
 Thank you for taking interest in applying into our ICT Conscript Program. 
+
 In this repository you will find our **Admission Test** to the program. 
-### The test is a voluntary (but **highly recommended**) part of the Admission:
-- We will evaluate your OmaIntti application even if you couldn't complete the Admission test. 
-### **However we highly recommend you take the test, if possible. It greatly improves your chances of being selected.**
-
-
 
 # 1. What we are looking for?
 We’re looking for individuals who are eager to grow and contribute in the following roles:
@@ -34,20 +30,22 @@ The process is straightforward: choose a task, fork the repository, complete you
 Make sure to link all deliverables (e.g., wireframes, research notes, plans) in your README.md.
 
 ### 4. Submit your Admission Test
-Once your test is ready, send an email to: ```ictvmrekry.pvjjk (at) mil.fi```
+Once your test is ready, send an email to: ```ictvmhaku.pvjjk (at) mil.fi```
 Include the following in your message:
 - Your full name
-- A link to your forked GitHub repository
+- A link to your forked, public GitHub repository
 - See the format below, use that!
 
 ⚠️ All other documentation should already be in your repository. Do not include additional details in the email.
 
+**You can return an incomplete Test** (a task that fails to fulfill the given goals) **as well. If you do so, please detail in your email why you couldn't complete the task.**
+
 ### 5. Await pre-selection results
 After submitting your test:
-- We will evaluate your work
+- We will evaluate your work.
 - Based on both your OmaIntti application and Admission Test, if applicable, we’ll decide if you move to the interview stage.
 
-You will be notified whether you are selected for an interview, or not moving forward in the process.
+You will be notified if you are selected for an interview.
 
 Final selections are made after all interviews are completed.
 
@@ -69,4 +67,7 @@ https://github.com/(your github user)/your-repository
 OmaNimi
 ````
 
-Make sure to follow return instructions closely. 
+Make sure to follow the return instructions closely.
+
+### Thank you!
+```- The ICT Conscript Program team```

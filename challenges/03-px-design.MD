@@ -12,7 +12,7 @@
 
 Create a **concise product-experience package** (wireframes + explanatory notes) that shows how the Unit Logbook should look, feel, and flow.
 
-> **Time box:** aim for **3–6 h** total.  
+> **Time box:** aim for **1–8 h** total.  
 > **Tools:** any design tool you like (Figma, Adobe XD, Pen-&-Paper → photo, Excalidraw…).  
 > **No coding required.**
 
@@ -56,4 +56,4 @@ Create a **concise product-experience package** (wireframes + explanatory notes)
 |    | Public share link (or static images) added to your fork’s root README. |
 |    | File formats are viewable without proprietary software (SVG, PNG, or public Figma link). |
 
-- [ ] Mail link to your forked repository to ictvmrekry.pvjjk at mil.fi.   
+- [ ] Return your done Test to ```ictvmhaku.pvjjk at mil.fi```.

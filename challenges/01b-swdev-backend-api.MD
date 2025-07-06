@@ -78,4 +78,4 @@ Add the **public base URL** to your fork’s root README.
 |    | Public URL in root README responds to `GET /health` with `200 OK`. |
 |    | `GET /entries` returns the 10 sample items. |
 |    | README contains route docs **or** OpenAPI spec link. |
-- [ ] Mail link to your forked repository to ictvmrekry.pvjjk at mil.fi.                             
+- [ ] Return your done Test to ```ictvmhaku.pvjjk at mil.fi```.                  

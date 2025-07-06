@@ -19,8 +19,8 @@ Your assignment is to deliver a **Docker Compose stack** that exposes a simple *
    * **hello-world container** (plain nginx serving `index.html` with “Unit Logbook OK”)  
    * optional **log forwarding** or **health-check** side-container.  
 2. Obtain and renew **Let’s Encrypt TLS** certificates automatically.  
-3. Ship a **CI-based deploy** (GitHub Actions) that, on every push to `main`, redeploys the stack to a free-tier VPS or container platform.  
-4. Pin all container images to **immutable version tags** (no `:latest`).
+3. Ship a **CI-based deploy** (GitHub Actions) that, on every push to `main`, redeploys the stack to a eg. free-tier VPS, container platform, your homeserver behind a DDNS or other service of your choice.  
+
 
 ---
 
@@ -42,7 +42,7 @@ Your assignment is to deliver a **Docker Compose stack** that exposes a simple *
 * **Reverse-proxy choice** – Traefik v2, Caddy 2, or nginx with `certbot` / `acme.sh`.  
 * **Hosting target** – free tier is fine (Fly.io, Oracle Arm Ampere, CapRover, Dokku, Render, Railway, Hetzner CX11 + Cloud DNS…).  
 * **DNS** – use a sub-domain you control (e.g. `logbook-<yourname>.example.org`). Synthetic (`duckdns.org`, `nip.io`) is acceptable.  
-* **Zero manual steps** after first `terraform apply` / VM creation – deploy script must recreate the stack end-to-end.
+* **Zero manual steps** except for starting the docker compose.
 
 ---
 
@@ -51,6 +51,7 @@ Your assignment is to deliver a **Docker Compose stack** that exposes a simple *
 | Idea | Hint |
 |------|------|
 | Development | A "docker-compose-dev.yml" when ran, overwrites your Let's Encrypt setup with eg. mkcert for running the compose in local/development environment. |
+| Version tags |  Pin all container images to **immutable version tags** (no `:latest`).    |
 
 ---
 
@@ -59,8 +60,7 @@ Your assignment is to deliver a **Docker Compose stack** that exposes a simple *
 | ✔︎ | Item |
 |----|------|
 |    | `docker compose up -d` locally starts stack; `curl -k https://localhost` prints “Unit Logbook OK”. |
-|    | **Public URL** in root README serves valid Let’s Encrypt certificate. |
+|    | **Public URL** of the deployment included in root README, and it serves valid Let’s Encrypt certificate. |
 |    | GitHub Actions run visible in your fork shows last successful deploy. |
-|    | `docker-compose.yml` uses ONLY explicit version tags. |
-|    | `infra/README.md` documents chosen host, deploy steps, and renewal strategy. |
-- [ ] Mail link to your forked repository to ictvmrekry.pvjjk at mil.fi.  
+|    | `README.md` documents chosen host, deploy steps, and renewal strategy. |
+- [ ] Return your done Test to ```ictvmhaku.pvjjk at mil.fi```.

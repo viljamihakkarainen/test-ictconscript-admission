@@ -15,7 +15,7 @@ You have been asked to make this product happen with  a squad of developers.
 
 Produce a **concise product-management package** that a new dev team could pick up on Monday and start delivering the **Unit Logbook Proof-of-Concept**.
 
-> **Time-box:** **1 – 6 hours**  
+> **Time-box:** **1 – 8 hours**  
 > **Tools:** Issues to your `Github repository issue tracker`, and a `Github Projects` kanban board.
 > **No coding required.**
 
@@ -60,5 +60,5 @@ Produce a **concise product-management package** that a new dev team could pick 
 |   | Sliced up the Concept to meaningful pieces, exhibited as Issues on your forked repository's issue tracker & Github Projects kanban board |
 |   | Roadmap or crude timing on when happens what. |
 |   | Artefacts committed in `challenges/product-owner/` and linked from root README. |
-- [ ] Mail link to your forked repository to ictvmrekry.pvjjk at mil.fi.   
+- [ ] Return your done Test to ```ictvmhaku.pvjjk at mil.fi```.
 
